@@ -16542,7 +16542,7 @@ const Cw = [
             ue.jsx("div", {
               className: "",
               children: ue.jsx("a", {
-                href: "/",
+                href: "https://zahidevaan.github.io/Day_13/",
                 children: ue.jsx("h2", {
                   className: "logo font-bold uppercase text-3xl",
                   children: "Logo",
